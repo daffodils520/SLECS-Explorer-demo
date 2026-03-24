@@ -1,7 +1,7 @@
-MS2NMF – NMF Demo (Submission Version)
+SLECS – NMF Demo (Submission Version)
 
 This folder provides a minimal demo for reproducing the
-Non-negative Matrix Factorization (NMF) step used in the MS2NMF framework.
+Non-negative Matrix Factorization (NMF) step used in the SLECS framework.
 
 The demo is intended for reproducibility only.
 
@@ -59,4 +59,4 @@ Notes
 
 - This demo reproduces only the NMF factorization step.
 - It does not include MS/MS preprocessing, matrix construction, or optimization.
-- Full methodological details are describ
+- Full methodological details are described in the manuscript and Supporting Information.
