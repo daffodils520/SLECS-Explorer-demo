@@ -1,7 +1,7 @@
 # MS2NMF-demo
 
 
-![描述文字](images/SLECS.png)
+![描述文字](images/SLECS.tif)
 
 
 MS2NMF (Submission Version)
